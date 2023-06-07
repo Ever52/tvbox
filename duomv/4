@@ -1,44 +1,43 @@
-//网络搜集整理，未验证，不知是否可用。
-//转载请注明出处，做人做事要凭良心
-//更新时间：2022/11/7 15:40
+//备用②号多仓。转载请注明出处，做人做事要凭良心
+//更新时间：2023/06/08 10:40
 
 {
     "urls": [
         {
-          "url":"http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
-          "name":"🚀玖妖001"
+          "url":"https://download.kstore.space/download/3313/mao/ymz",
+          "name":"🚀夜猫子"
         },
         {
-          "url":"http://152.136.125.181:81/MM/dianbos/xianlu00.json",
-          "name":"🚀玖妖002"
+          "url":"https://raw.iqiq.io/XiaoYiChaHang/tvbox/main/ysj.json",
+          "name":"🚀荷城茶秀"
         },
         {
-          "url":"http://152.136.125.181:81/MM/dianbos/zhoushijie.json",
-          "name":"🚀玖妖003"
+          "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/js.json",
+          "name":"🚀高天流云"
         },
         {
-          "url":"http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
-          "name":"🚀玖妖004"
+          "url":"https://raw.iqiq.io/Yosakoii/Yosakoii.github.io/main/2023.json",
+          "name":"🚀Yosakoii"
         },
         {
-          "url":"http://www.yunwp.cn/api/v3/file/get/919/%E6%98%9F%E8%BE%B0%E5%BD%B1%E8%A7%86.json?sign=RizSFKTqJqWabr5xA_KjWHFIl0eEW6KbcdUxBEzf4ko%3D%3A0",
-          "name":"🚀小马线路0919"
+          "url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
+          "name":"🚀胖鸭"
         },
         {
-          "url":"http://www.yunwp.cn/api/v3/file/get/922/77.json?sign=kmcP9XMjbRXt0WCZWwdhZBLnJl21tGUVTGF0blYNCxI%3D%3A0",
-          "name":"🚀小马线路0922"
+          "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
+          "name":"🚀元兴"
         },
         {
-          "url":"http://www.yunwp.cn/api/v3/file/get/924/0712.json?sign=yimExC6p3fCjaQYdUHfSYwXGCHcZLHvU5A0SEVHFRLs%3D%3A0",
-          "name":"🚀小马线路0924"
+          "url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json",
+          "name":"🚀刺桐"
         },
         {
-          "url":"http://www.yunwp.cn/api/v3/file/get/930/20220827.json?sign=hS8yR7P5g1ii-IrsETTWpEZgJKGvhKM5GlR9TSjqx74%3D%3A0",
-          "name":"🚀小马线路0930"
+          "url":"https://jihulab.com/xiaohutx/box/-/raw/main/0.json",
+          "name":"🚀小胡"
         },
         {
-          "url":"http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
-          "name":"🚀小马线路1007"
+          "url":"https://www.lianyingtv.com/fast/fast",
+          "name":"🚀恋影"
         }
      ]
    }
