@@ -13,8 +13,7 @@
 {"sourceName":"baip⑦号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/7"},
 {"sourceName":"baip⑧号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/8"},
 {"sourceName":"baip⑨号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/9"},
-{"sourceName":"baip⑩号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/10"},
-{"sourceName":"baip①①号","sourceUrl":"https://agit.ai/xx03253/apk_update/raw/branch/main/tv/update_yuan"}
+{"sourceName":"baip⑩号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/main/duocangku/10"}
 
 ]
 }
